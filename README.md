@@ -46,7 +46,7 @@ Use your utility of choice (or your terminal) to do a full string replace using:
 
 Replace all occurences of:
 
-`com.elgato.template` with `your.identifier.plugin`
+`ca.knoxy.powershell-launcher` with `your.identifier.plugin`
 
 and:
 

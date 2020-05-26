@@ -2,24 +2,24 @@
   "Actions": [
     {
       "Icon": "action/images/actionimage", 
-      "Name": "Example Action", 
+      "Name": "Super Action!", 
       "States": [
         {
           "Image": "action/images/action"
         }
       ], 
-      "Tooltip": "This is an example tooltip", 
-      "UUID": "com.elgato.template.action"
+      "Tooltip": "Something about something...", 
+      "UUID": "ca.knoxy.powershell-launcher.action"
     }
   ], 
   "SDKVersion": 2,
-  "Author": "Elgato Systems", 
+  "Author": "corbob", 
   "CodePath": "index.html", 
   "PropertyInspectorPath": "propertyinspector/index.html", 
   "Description": "Example description", 
   "Name": "Stream Deck Template", 
   "Icon": "action/images/action", 
-  "URL": "https://www.elgato.com/en/gaming/stream-deck", 
+  "URL": "", 
   "Version": "1.0.0",
   "OS": [
     {
